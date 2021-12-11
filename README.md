@@ -1,6 +1,6 @@
 # firebase_flutter
 
-A new Flutter project.
+A new Flutter project to demonstrante the Firebase (Realtime database) communication feature used for NoSql persistence strategy.
 
 ## Getting Started
 
